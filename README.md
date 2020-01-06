@@ -8,6 +8,8 @@ A responsive landing page using modern css (grid, flex, media queries).
 
 ![](https://i.imgur.com/vNQg2eA.png)
 
+![](https://i.imgur.com/TMmweh5.png)
+
 ## Acknowledgments
 
 * Traversy Media (https://www.youtube.com/user/TechGuyWeb)
